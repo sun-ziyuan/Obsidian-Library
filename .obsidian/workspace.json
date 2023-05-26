@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "4e7900a65412dd02",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1400317fd2ec96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf244952733c2f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaSE ~~ Java基础知识总结/Java ~~ 导论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8321eb6a0aa77708",
+    "type": "split",
+    "children": [
+      {
+        "id": "6172edcd468b414a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe15870d3243823",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f59e44d2b7889c03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bf7ef96212b40ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78310caa807f7578",
+    "type": "split",
+    "children": [
+      {
+        "id": "efed9beca02c5149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58895210a68e9ace",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaSE ~~ Java基础知识总结/Java ~~ 导论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5603ab7ec4681e3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaSE ~~ Java基础知识总结/Java ~~ 导论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6c659cf9a3ae9c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efe9b93fce6e299c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaSE ~~ Java基础知识总结/Java ~~ 导论.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cf244952733c2f51",
+  "lastOpenFiles": [
+    "README.md",
+    "JavaSE ~~ Java基础知识总结/Java ~~ 导论.md",
+    "JavaSE ~~ Java基础知识总结/未命名",
+    "JavaSE ~~ Java基础知识总结"
+  ]
+}
