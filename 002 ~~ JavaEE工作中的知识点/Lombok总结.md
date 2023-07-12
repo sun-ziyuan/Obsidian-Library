@@ -33,7 +33,7 @@ JDK5引入了注解的同时，也提供了两种解析方式：
 	2） Pluggable Annotatioin Processing API
 		JSR 269自JDK6加入，作为apt的替代方案，它解决了apt的两个问题，javac在执行的时候会调用实现了该API的程序，这样我们就可以对编译器做一些增强，这是javac执行的过程如下：
 
- ![[WeChat6f0c32a82a83d270ed92e70be98b1fa4 2.jpg]]
+ ![[Pasted image 20230531175045.png]]
 
 	Lombok本质上就是一个实现了 “JSR 269 API”的程序。在使用javac的过程中，它产生作用的具体流程如下：
 	1. javac对源代码进行分析，产生了一颗抽象语法树（AST）

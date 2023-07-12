@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d71cb276d5d0befe",
+        "id": "df36286c0be724d2",
         "type": "tabs",
         "children": [
           {
-            "id": "1cbc02b6ff25b14c",
+            "id": "06f164e27f608a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 ~~ JavaEE工作中的知识点/Lombok总结.md",
-                "mode": "preview",
+                "file": "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "78310caa807f7578",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 ~~ JavaEE工作中的知识点/Lombok总结.md",
+                "file": "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 ~~ JavaEE工作中的知识点/Lombok总结.md",
+                "file": "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 ~~ JavaEE工作中的知识点/Lombok总结.md"
+                "file": "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md"
               }
             }
           }
@@ -140,25 +139,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "workspaces:管理工作区布局": false,
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "1cbc02b6ff25b14c",
+  "active": "06f164e27f608a38",
   "lastOpenFiles": [
-    "WeChat6f0c32a82a83d270ed92e70be98b1fa4 2.jpg",
-    "WeChat6f0c32a82a83d270ed92e70be98b1fa4 1.jpg",
-    "WeChat6f0c32a82a83d270ed92e70be98b1fa4.jpg",
-    "Pasted image 20230531175102.png",
-    "Pasted image 20230531175045.png",
+    "003 ~~ 工具总结/笔记神器 ~~ Obsidian.md",
     "002 ~~ JavaEE工作中的知识点/po、dto、vo的总结.md",
     "002 ~~ JavaEE工作中的知识点/Lombok总结.md",
-    "003 ~~ 工具总结/笔记神器 ~~ Obsidian.md",
+    "002 ~~ JavaEE工作中的知识点/images/Pasted image 20230531175045.png",
+    "002 ~~ JavaEE工作中的知识点/images/Pasted image 20230529154833.png",
+    "002 ~~ JavaEE工作中的知识点/Lombok原理树.md",
+    "002 ~~ JavaEE工作中的知识点/excalidraw/Lombok原理树.md",
+    "002 ~~ JavaEE工作中的知识点/excalidraw",
+    "002 ~~ JavaEE工作中的知识点/Excalidraw",
+    "002 ~~ JavaEE工作中的知识点/Untitled",
+    "Pasted image 20230531175102.png",
+    "WeChat6f0c32a82a83d270ed92e70be98b1fa4.jpg",
+    "WeChat6f0c32a82a83d270ed92e70be98b1fa4 1.jpg",
+    "WeChat6f0c32a82a83d270ed92e70be98b1fa4 2.jpg",
+    "README.md",
     "未命名.canvas",
     "000 ~~ 日记/日记/day/2023-05-30.md",
     "000 ~~ 日记/模版/日记模板.md",
@@ -171,7 +177,6 @@
     "000 ~~ 日记/模版/style/view.js",
     "000 ~~ 日记/模版/style/view.css",
     "000 ~~ 日记/模版/style",
-    "002 ~~ JavaEE工作中的知识点/Excalidraw/Lombok原理树.md",
     "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md",
     "001 ~~ JavaSE基础知识总结/Java ~~ 计算机导论.md",
     "001 ~~ JavaSE基础知识总结/images/Pasted image 20230526141147.png",
@@ -179,22 +184,16 @@
     "000 ~~ 日记/日记/2023-05-29.md",
     "000 ~~ 日记/模版/weatherView.js",
     "000 ~~ 日记/模版/未命名 1.md",
-    "002 ~~ JavaEE工作中的知识点/images/Pasted image 20230529154833.png",
     "000 ~~ 日记/模版/2023-05-29.md",
     "2023-05-29.md",
     "000 ~~ 日记/日记",
-    "000 ~~ 日记/模版",
-    "000 ~~ 日记",
     "Lombok原理树.png.md",
     "002 ~~ JavaEE工作中的知识点/images/Lombok原理树.png",
-    "002 ~~ JavaEE工作中的知识点/images",
     "Excalidraw/Drawing 2023-05-27 22.34.48.excalidraw.md",
     "Excalidraw/Drawing 2023-05-27 22.42.39.excalidraw.md",
     "Excalidraw/Drawing 2023-05-27 21.27.31.excalidraw.md",
     "Excalidraw/Drawing 2023-05-27 21.27.33.excalidraw.md",
     "001 ~~ JavaSE基础知识总结/Java知识点总结.md",
-    "xxx.md",
-    "www.baidu.com.md",
-    "README.md"
+    "xxx.md"
   ]
 }

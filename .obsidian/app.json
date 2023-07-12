@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "attachmentFolderPath": "JavaSE ~~ Java基础知识总结/images",
+  "attachmentFolderPath": "./images",
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
