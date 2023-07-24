@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md",
-                "mode": "source",
+                "file": "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md",
+                "file": "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md",
+                "file": "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md"
+                "file": "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "d6ac16e45193e2f1",
   "lastOpenFiles": [
-    "003 ~~ 工具总结/Java.md",
     "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md",
     "003 ~~ 工具总结/MAC神器 ~~ HomeBrew 的使用.md",
+    "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md",
+    "003 ~~ 工具总结/笔记神器 ~~ Obsidian.md",
     "003 ~~ 工具总结/GIT/GIT ~~ 安装卸载.md",
     "003 ~~ 工具总结/GIT/git ~~ 问题.md",
-    "003 ~~ 工具总结/笔记神器 ~~ Obsidian.md",
     "003 ~~ 工具总结/GIT",
     "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md",
     "002 ~~ JavaEE工作中的知识点/po、dto、vo的总结.md",
