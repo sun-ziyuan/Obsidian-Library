@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca695071f7b3504",
+        "id": "fb95909f19b8b6a7",
         "type": "tabs",
         "children": [
           {
-            "id": "10a9df1965194c32",
+            "id": "41205ee8fba5c039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 ~~ 工具总结/GIT/IDEA ~~ 操作GIT.md",
+                "file": "003 ~~ 工具总结/Brew ~~ 安装MySQL.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "295406e05078f7e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-05 22.19.43.excalidraw.md"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 ~~ 工具总结/GIT/IDEA ~~ 操作GIT.md",
+                "file": "003 ~~ 工具总结/Brew ~~ 安装MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 ~~ 工具总结/GIT/IDEA ~~ 操作GIT.md",
+                "file": "003 ~~ 工具总结/Brew ~~ 安装MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 ~~ 工具总结/GIT/IDEA ~~ 操作GIT.md"
+                "file": "003 ~~ 工具总结/Brew ~~ 安装MySQL.md"
               }
             }
           }
@@ -158,23 +148,25 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "10a9df1965194c32",
+  "active": "41205ee8fba5c039",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-05 22.19.43.excalidraw.md",
+    "003 ~~ 工具总结/笔记神器 ~~ Obsidian.md",
+    "003 ~~ 工具总结/MAC神器 ~~ HomeBrew 的使用.md",
+    "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md",
+    "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md",
+    "003 ~~ 工具总结/Brew ~~ 安装MySQL.md",
+    "003 ~~ 工具总结/GIT/GIT ~~ GitHub基本使用.md",
+    "003 ~~ 工具总结/未命名",
     "003 ~~ 工具总结/GIT/IDEA ~~ 操作GIT.md",
     "003 ~~ 工具总结/GIT/git ~~ 问题.md",
     "003 ~~ 工具总结/GIT/GIT ~~ 概述、安装卸载与配置.md",
-    "003 ~~ 工具总结/GIT/GIT ~~ 安装卸载.md",
-    "003 ~~ 工具总结/Node版本 ~~ NVM的使用.md",
+    "Excalidraw/Drawing 2023-08-05 22.19.43.excalidraw.md",
     "Excalidraw",
     "003 ~~ 工具总结/GIT/images/Pasted image 20230805221737.png",
     "003 ~~ 工具总结/GIT/images/Pasted image 20230805221610.png",
     "003 ~~ 工具总结/GIT/images/Pasted image 20230803194549.png",
-    "003 ~~ 工具总结/Java版本 ~~ JENV的使用.md",
-    "003 ~~ 工具总结/MAC神器 ~~ HomeBrew 的使用.md",
     "003 ~~ 工具总结/GIT/images/Pasted image 20230803103538.png",
     "003 ~~ 工具总结/GIT/images",
-    "003 ~~ 工具总结/笔记神器 ~~ Obsidian.md",
     "001 ~~ JavaSE基础知识总结/Java ~~ 23种设计模式/创建者模式 ~~ 单例模式.md",
     "001 ~~ JavaSE基础知识总结/Java ~~ 基础语法.md",
     "001 ~~ JavaSE基础知识总结/Java ~~ 计算机导论.md",
@@ -204,8 +196,6 @@
     "000 ~~ 日记/模版/日记模版1.md",
     "000 ~~ 日记/日记/2023-05-30.md",
     "000 ~~ 日记/日记/delete.md",
-    "000 ~~ 日记/日记/week",
-    "000 ~~ 日记/日记/day",
-    "000 ~~ 日记/日记/2023-05-29.md"
+    "000 ~~ 日记/日记/week"
   ]
 }

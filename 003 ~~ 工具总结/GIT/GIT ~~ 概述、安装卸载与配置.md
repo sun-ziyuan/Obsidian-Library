@@ -95,32 +95,7 @@ git config -global -unset szy.name			# 删除全局配置
 git config -system -unset szy.name			# 删除本地配置
 ```
 
-# 4. 生成SSH 
-
-```shell
-# 第一步：检查本地主机是否已经存在ssh key
-cd ~/.ssh
-# 如果没有新建一个文件夹
-mkdir ~/.ssh
-# 查看是否存在 id_rsa 和 id_rsa.pub文件,如果存在,说明已经有SSH Key
-ls
-
-# 第二步：生成ssh key   -t:选择加密方式   -C: 描述该SSH针对后面的邮箱
-ssh-keygen -t rsa -C sunziyuan710@gmail.com
-# 连续回车三步
-
-# 第三步：查看生成的文件 .ssh文件夹下有两个文件：id_rsa(私钥)、id_rsa.pub(公钥)
-cat id_rsa.pub
-
-# 复制到 github上    github --> Settings --> SSH and GPG
-```
-
-![[Pasted image 20230803194549.png]]
-# 5. 设置可以通过HTTPS拉去代码
-
-
-
-# 6. Git凭证存储
+# 4. Git凭证存储
 
 > 参考文献：https://blog.csdn.net/ttyy1112/article/details/107863210
 
@@ -129,7 +104,7 @@ cat id_rsa.pub
 # 远程使用密码获取 Git
 http://username:password@github.com/sun-ziyuan/Obsidian-Code
 ```
-## 6.1 凭证系统
+## 4.1 凭证系统
 
 Git支持四种形式的凭证模式：
 
@@ -153,7 +128,7 @@ git config --global credential.helper store
 git config --global --unset credential.helper
 ```
 
-## 6.2 cache模式
+## 4.2 cache模式
 
 ```shell
 # 设置当前 GIt凭证模式 默认缓存15分钟
@@ -170,7 +145,7 @@ cat ~/.gitconfig          # 存放位置
 git config --list         # 查看配置信息
 ```
 
-## 6.3 store模式
+## 4.3 store模式
 > 删除凭证后，下次登录时会重新提示输入用户名、密码;
 
 ```shell
@@ -192,7 +167,7 @@ sudo rm ~/.git-credentials
 # 删除某个凭证 (直接进行修改，删除不需要的凭证)
 vim ~/.git-credentials
 ```
-## 6.4 osxkeychain模式
+## 4.4 osxkeychain模式
 
 ```shell
 # 如果没有安装osxkeychain辅助工具，则先安装osxkeychain工具
@@ -211,14 +186,14 @@ git credential reject
 	
 ![](https://cdn.nlark.com/yuque/0/2022/png/21644188/1662300937185-444b2b4a-fa5f-46fa-95fe-58bddae509bd.png)
 
-## 6.5 manager模式
+## 4.5 manager模式
 
 ```shell
 后续补上，暂时用不上
 ```
 
 
-## 6.6 命令行操作 ~~ 多模式共存情况下的处理
+## 4.6 命令行操作 ~~ 多模式共存情况下的处理
 
 >以上两个示例均采用单一凭证处理模式，其实是可以同时采用多种凭证存储模式的
 
@@ -232,7 +207,7 @@ git credential reject
 	helper = cache --timeout 30000
 ```
 
-## 6.7 IDEA凭证存储的设置
+## 4.7 IDEA凭证存储的设置
 
 可以通过Appearance & Behavior - System Setting - Passwords 设置凭证的存储方式。默认为In native Keychain。即存储到本地钥匙串中。因此如果密码发生变化，可以从钥匙串中删除对应的记录，然后重新登录即可。
 ![[Pasted image 20230805221610.png]]
